@@ -1,0 +1,23 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.wrapper {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.layout {
+  padding: calc(2 * var(--spacing-unit));
+  margin: var(--spacing-unit);
+  background-color: var(--layout-bg-color);
+  border: 1px solid transparent;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  display: block;
+}

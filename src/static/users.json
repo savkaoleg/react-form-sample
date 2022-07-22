@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "name": "Batman", "email": "batman@dc.comics" },
+    { "name": "Two-Face", "email": "two-face@dc.comics" },
+    { "name": "Joker", "email": "joker@dc.comics" },
+    { "name": "Superman", "email": "superman@dc.comics" },
+    { "name": "Wonder Woman", "email": "wonder-woman@dc.comics" },
+    { "name": "Aquaman", "email": "aquaman@dc.comics" },
+    { "name": "The Flash", "email": "the-flash@dc.comics" },
+    { "name": "Shazam", "email": "shazam@dc.comics" }
+  ]
+}
