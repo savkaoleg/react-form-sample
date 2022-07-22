@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.76984d40.css",
-    "main.js": "/static/js/main.6662bac2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.76984d40.css.map": "/static/css/main.76984d40.css.map",
-    "main.6662bac2.js.map": "/static/js/main.6662bac2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "https://savkaoleg.github.io/react-form-sample/build/static/css/main.76984d40.css",
+    "main.js": "https://savkaoleg.github.io/react-form-sample/build/static/js/main.f1898d02.js",
+    "static/js/787.28cb0dcd.chunk.js": "https://savkaoleg.github.io/react-form-sample/build/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "https://savkaoleg.github.io/react-form-sample/build/index.html",
+    "main.76984d40.css.map": "https://savkaoleg.github.io/react-form-sample/build/static/css/main.76984d40.css.map",
+    "main.f1898d02.js.map": "https://savkaoleg.github.io/react-form-sample/build/static/js/main.f1898d02.js.map",
+    "787.28cb0dcd.chunk.js.map": "https://savkaoleg.github.io/react-form-sample/build/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76984d40.css",
-    "static/js/main.6662bac2.js"
+    "static/js/main.f1898d02.js"
   ]
 }
